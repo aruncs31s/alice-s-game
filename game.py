@@ -1,4 +1,4 @@
-# v0.0.5
+# v0.0.6
 class Game1:
 	def level_1(args):
 		...
